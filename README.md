@@ -9,6 +9,8 @@ Please do not reproduce, use, or duplicate.
 
 Contact katrinafrizzell@gmail.com for more information.
 
+##
+
 ![MITlogoSmall](https://user-images.githubusercontent.com/93966332/152295672-d9e40164-b0c2-4079-8ccf-c58eff8c4a84.png)
 
 MIT License
