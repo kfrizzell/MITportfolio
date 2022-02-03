@@ -1,10 +1,10 @@
 # MITportfolio
-MIT Portfolio Project
-Katrina Frizzell
+Katrina Frizzell - MIT Coding Portfolio
 
-This is a collection of my coding projects.
+Professional Certificate in Coding: Women's Cohort 2021-2022
+
+This is a collection of my coding projects (Part 1 Web Development With Javascript).
 
 Please do not reproduce, use, or duplicate.
 
 Contact katrinafrizzell@gmail.com for more information.
-2022
